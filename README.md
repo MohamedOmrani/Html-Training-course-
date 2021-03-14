@@ -26,27 +26,28 @@
 
 + Firstly, visit the [Visual Studio Code website](https://code.visualstudio.com/) to download the Visual Studio Code installer for Windows. Once it is downloaded, run the installer (*VSCodeUserSetup-{version}.exe*). It will only take a minute.
 
-  ![](C:\Users\Mohamed\Downloads\1Step .png)
+![1Step ](https://user-images.githubusercontent.com/69158314/111070843-dc110180-84d3-11eb-9e5e-50e61ae6a203.png)
 
-  ![](C:\Users\Mohamed\Downloads\2Step.png)
+![2Step](https://user-images.githubusercontent.com/69158314/111070817-b7b52500-84d3-11eb-8320-dc0a2de1f6e4.png)
 
-  
+  ![3Step](https://user-images.githubusercontent.com/69158314/111070854-ec28e100-84d3-11eb-90a8-2123dec785b0.png)
+
 
 + Secondly, accept the agreement and click on next.
 
-![](C:\Users\Mohamed\Downloads\4Step.png)
+![4Step](https://user-images.githubusercontent.com/69158314/111070867-f519b280-84d3-11eb-92fc-aae7ee565004.png)
 
 + Thirdly, click on “***create a desktop icon***” so that it can be accessed from desktop, click on the list of the “***other***“ and click on Next.
 
-![](C:\Users\Mohamed\Downloads\5Setp.png)
+![5Setp](https://user-images.githubusercontent.com/69158314/111070878-ff3bb100-84d3-11eb-9e45-3db962c4a160.png)
 
 + After that, click on the install button.
 
-![](C:\Users\Mohamed\Downloads\6Step.png)
+![6Step](https://user-images.githubusercontent.com/69158314/111070887-06fb5580-84d4-11eb-99c7-c2d4ca248379.png)
 
 + Finally, after installation completes, click on the finish button, and the visual studio code will get open.
 
-![](C:\Users\Mohamed\Downloads\7Step.png)
+![7Step](https://user-images.githubusercontent.com/69158314/111070894-0cf13680-84d4-11eb-9a8b-b0ac5ee8d945.png)
 
 ***Creating an HTML file*** 
 
