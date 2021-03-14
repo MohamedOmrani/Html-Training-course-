@@ -81,6 +81,102 @@
 
 + Finally, double click on the ***index.html***, now we can see ***hello world*** in the browser 
 
+***Tag Syntax***
+
+<***tagname***>content</***tagname***>       Element names surrounded by angle brackets
+
+<***h1***>About us </***h1***>                           Normally come in pairs (start tag and end tag)
+
+<***p***>This is a paragraph<***/p***>              End tag in usually the same but with a forward slash 
+
+<***br***> (self closing)                                Some tags close themselves 
+
+
+
+***HTML Page  Structure***
+
+![](C:\Users\Mohamed\Desktop\HTML Training Course\structure html.png)
+
+
+
+***Example of HTML Page  Structure***
+
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+  <title>HTML Training Course</title>
+
+</head>
+
+<body>
+
+  <***h1***>My First Heading</***h1***>
+
+    <***p***>My First paragraph.</***p***>
+
+</body>
+
+</html>
+
+
+
+  <!--Heading-->
+
+  <***h1***>Heading One</***h1***>
+
+  <***h2***>Heading Two</***h2***>
+
+  <***h3***>Heading Three</***h3***>
+
+  <***h4***>Heading Four</***h4***>
+
+  <***h5***>Heading Five</***h5***>
+
+  <***h6*** >Heading Six<***/h6*** > 
+
+
+
+  <!--paragraph-->
+
+    <***p***>
+
+  Lorem ipsum dolor sit amet consectetur, adipisicing elit. Obcaecati 
+
+  non magni similique ipsam. Ipsa at molestias ipsam eos pariatur saepe
+
+  illum officiis atque blanditiis velit minima aperiam delectus, eaque beatae?
+
+  </***p***>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   
 
   
