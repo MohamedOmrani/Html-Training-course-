@@ -1,4 +1,4 @@
-# Html-Training-course-
+# Html Training Course
 
 **What is HTML ?**
 
