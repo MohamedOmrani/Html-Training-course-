@@ -2,7 +2,7 @@
 
 **What is HTML ?**
 
-+ **Hyper Text Markup Language **
++ **Hyper Text Markup Language**
 + **Not** a programming language 
 + Markup Language for creating webpages/documents
 + Building blocks of the web 
