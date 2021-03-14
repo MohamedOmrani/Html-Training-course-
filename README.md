@@ -95,13 +95,14 @@
 
 ***HTML Page  Structure***
 
-![](C:\Users\Mohamed\Desktop\HTML Training Course\structure html.png)
+![structure html](https://user-images.githubusercontent.com/69158314/111072762-4d54b280-84dc-11eb-9ce5-f56b3f17d205.png)
+
 
 
 
 ***Example of HTML Page  Structure***
 
-<!DOCTYPE html>
+<!***DOCTYPE html***>
 
 <html lang="en">
 
