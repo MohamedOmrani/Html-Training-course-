@@ -104,23 +104,23 @@
 
 <!***DOCTYPE html***>
 
-<html lang="en">
+<***html lang="en"***>
 
-<head>
+<***head***>
 
-  <title>HTML Training Course</title>
+  <***title***>HTML Training Course</***title***>
 
-</head>
+</***head***>
 
-<body>
+<***body***>
 
   <***h1***>My First Heading</***h1***>
 
-    <***p***>My First paragraph.</***p***>
+   <***p***>My First paragraph.</***p***>
 
-</body>
+</***body***>
 
-</html>
+</***html***>
 
 
 
@@ -136,7 +136,7 @@
 
   <***h5***>Heading Five</***h5***>
 
-  <***h6*** >Heading Six<***/h6*** > 
+  <***h6***>Heading Six<***/h6***> 
 
 
 
