@@ -155,13 +155,7 @@
   
 ```
 
-```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
+These are <b style='color:red'>red words</b>.
 
 
 
