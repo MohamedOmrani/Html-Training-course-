@@ -69,7 +69,7 @@
 
      Loads the ***about.html*** file 
 
-***let's started***
+<p style="color:red;"> let's started </p>
 
 + Firstly, create New folder  ***"HTML Training "***
 
@@ -124,8 +124,7 @@
 
 
 
-
-  + ***Heading***
+### Heading
 ```
   <h1>Heading One</h1>
 
@@ -142,11 +141,11 @@
 
 
 
-  + ***paragraph***
-```
+### Paragraph 
+```diff 
   <p>
 
-  Lorem ipsum dolor sit amet consectetur, adipisicing elit. Obcaecati 
+ - Lorem ipsum dolor sit amet consectetur, adipisicing elit. Obcaecati 
 
   non magni similique ipsam. Ipsa at molestias ipsam eos pariatur saepe
 
@@ -154,6 +153,14 @@
 
   </p>
   
+```
+
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
 ```
 
 
