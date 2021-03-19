@@ -359,8 +359,68 @@
     </article>
 </section>
 ```
+### Aside
+```
+<aside>
+    <h3>Categories</h3>
+    <ul>
+        <li><a href="#">Category 1</a></li>
+        <li><a href="#">Category 2</a></li>
+        <li><a href="#">Category 3</a></li>
+    </ul>
+</aside>
+```
+### Aside
 
+```
+<footer>
+  <p>Copyright &copy; 2021, My Website</p>
+</footer>
+```
+### All Code 
+```
+<header>
+    <h1>My Website</h1>
+</header>
 
+<section>
+    <article class="post">
+        <h3>Blog Post One</h3>
+        <small>Poste by Mohamed on January 20</small>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias esse vero ab consequatur, rem sint dolorem eius dolorum exercitationem, necessitatibus modi iure rerum            facere obcaecati nam! Quos enim reprehenderit a.</p>
+        <a href="post.html">Read More</a>
+    </article>
+</section>
 
+<section>
+    <article class="post">
+        <h3>Blog Post Two</h3>
+        <small>Poste by Mohamed on January 20</small>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias esse vero ab consequatur, rem sint dolorem eius dolorum exercitationem, necessitatibus modi iure rerum            facere obcaecati nam! Quos enim reprehenderit a.</p>
+        <a href="post.html">Read More</a>
+    </article>
+</section>
 
+<section>
+    <article class="post">
+        <h3>Blog Post Three</h3>
+        <small>Poste by Mohamed on January 20</small>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias esse vero ab consequatur, rem sint dolorem eius dolorum exercitationem, necessitatibus modi iure rerum            facere obcaecati nam! Quos enim reprehenderit a.</p>
+        <a href="post.html">Read More</a>
+    </article>
+</section>
+
+<aside>
+    <h3>Categories</h3>
+    <ul>
+        <li><a href="#">Category 1</a></li>
+        <li><a href="#">Category 2</a></li>
+        <li><a href="#">Category 3</a></li>
+    </ul>
+</aside>
+
+<footer>
+    <p>Copyright &copy; 2021, My Website</p>
+</footer>
+```
 
