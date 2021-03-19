@@ -300,6 +300,16 @@
 
 ![semantic](https://user-images.githubusercontent.com/69158314/111840628-06602600-88fd-11eb-8bbc-db68b0b6f9e9.png)
 
+```
+<article></article>
+<aside></aside>
+<details></details>
+<footer></footer>
+<header></header>
+<main></main>
+<nav></nav>
+<section></section>
+```
 
 
 
