@@ -159,11 +159,11 @@
 **Inline Elemnts:**
 - Do not start on a new line 
 - Take only the necessary with
--
+
 **Block Elements:**
 - Start on a new line
 - Take full width available
--
+
 **Block Level:** <div>,<h1>-<h6>,<p>,<form>
 **Inline Level:** <span>,<img>,<a>
 
