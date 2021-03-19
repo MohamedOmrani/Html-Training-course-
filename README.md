@@ -189,3 +189,93 @@
    </p>
   
 ```
+### List
+``` 
+  <ul>
+    <li>List Item 1</li>
+    <li>List Item 2</li>
+    <li>List Item 3</li>
+    <li>List Item 4</li>
+  </ul> 
+   
+   <ol>
+    <li>List Item 1</li>
+    <li>List Item 2</li>
+    <li>List Item 3</li>
+    <li>List Item 4</li>
+   </ol>  
+```
+### Table
+```
+ <table>
+    <tr>
+      <th>Firstname</th>
+      <th>Lastname</th>
+      <th>Email</th>
+      <th>Age</th>
+    </tr>
+    <tr>
+      <td>Jill</td>
+      <td>Smith</td>
+      <td>Smith@something.com</td>
+      <td>50</td>
+    </tr>
+    <tr>
+      <td>Eve</td>
+      <td>Jackson</td>
+      <td>Jackson@something.com</td>
+      <td>94</td>
+    </tr>
+  </table>
+```
+### form
+```
+ <form action="action_page.php" method="POST">
+   <div>
+        <label>First Name:</label>
+        <input type="text" name="firstName" placeholder="enter your first name">
+   </div> 
+   <br>
+   <div>
+        <label>Last Name:</label>
+        <input type="text" name="lastName">
+   </div> 
+   <br>
+   <div>
+        <label>Email:</label>
+        <input type="text" name="email"> 
+   </div> 
+   <br>
+   <div>
+       <label>Message:</label>
+       <textarea name="message"></textarea>
+   </div>
+   <br>
+   <div>
+       <label>Gender:</label>
+       <select name="gender">
+           <option value="male">Male</option>
+           <option value="female">Female</option>
+           <option value="other">Other</option>
+       </select>
+   </div>
+   <br>
+   <div>
+       <label>Age:</label>
+       <input type="text" name="age" value="30">
+   </div>
+   <br>
+   <div>
+       <label>Birthday:</label>
+       <input type="date" name="birthday">
+   </div>
+   <br>
+   <input type="submit" name="submit" value="Submit">
+  </form>
+```
+
+
+
+
+
+
