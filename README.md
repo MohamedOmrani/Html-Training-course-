@@ -423,4 +423,233 @@
     <p>Copyright &copy; 2021, My Website</p>
 </footer>
 ```
+### Add the Attribute id in tag header
+```
+id="main-header"
+```
+### Add the Attribute id in tag footer
+```
+id="main-footer"
+```
+
+### Add the style in Head
+```
+<style>
+    #main-header{
+        text-align: center;
+        background-color: black;
+        color: white;
+        padding: 10px;
+    }
+
+    #main-footer{
+        text-align: center;
+        font-size: 18px;
+    }
+</style>
+```
+### add tag href in body 
+```
+<a href="index.html">Go to index</a>
+```
+
+### Now go to file index.html and add tag href in body
+```
+<a href="blog.html">Go to blog</a>
+```
+
+### Code blog.html 
+```
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>My Blog</title>
+    <style>
+        #main-header{
+            text-align: center;
+            background-color: black;
+            color: white;
+            padding: 10px;
+        }
+
+        #main-footer{
+            text-align: center;
+            font-size: 18px;
+        }
+    </style>
+</head>
+<body>
+    <header id="main-header">
+        <h1>My Website</h1>
+    </header>
+
+    <a href="index.html">Go to index</a>
+
+    <section>
+        <article class="post">
+            <h3>Blog Post One</h3>
+            <small>Poste by Mohamed on January 20</small>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias esse vero ab consequatur, rem sint dolorem eius dolorum exercitationem, necessitatibus modi iure rerum facere obcaecati nam! Quos enim reprehenderit a.</p>
+            <a href="post.html">Read More</a>
+        </article>
+    </section>
+
+    <section>
+        <article class="post">
+            <h3>Blog Post Two</h3>
+            <small>Poste by Mohamed on January 20</small>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias esse vero ab consequatur, rem sint dolorem eius dolorum exercitationem, necessitatibus modi iure rerum facere obcaecati nam! Quos enim reprehenderit a.</p>
+            <a href="post.html">Read More</a>
+        </article>
+    </section>
+
+    <section>
+        <article class="post">
+            <h3>Blog Post Three</h3>
+            <small>Poste by Mohamed on January 20</small>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias esse vero ab consequatur, rem sint dolorem eius dolorum exercitationem, necessitatibus modi iure rerum facere obcaecati nam! Quos enim reprehenderit a.</p>
+            <a href="post.html">Read More</a>
+        </article>
+    </section>
+    
+    <aside>
+        <h3>Categories</h3>
+        <ul>
+            <li><a href="#">Category 1</a></li>
+            <li><a href="#">Category 2</a></li>
+            <li><a href="#">Category 3</a></li>
+        </ul>
+    </aside>
+
+    <footer id="main-footer">
+        <p>Copyright &copy; 2021, My Website</p>
+    </footer>
+</body>
+</html>
+```
+### Code index.html
+```
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>HTML Training Course</title>
+</head>
+<body>
+    <a href="blog.html">Go to blog</a>
+     <!--Heading-->
+    <h1>Heading One</h1>
+    <h2>Heading Two</h2>
+    <h3>Heading Three</h3>
+    <h4>Heading Four</h4>
+    <h5>Heading Five</h5>
+    <h6>Heading Six</h6>
+
+    <!--paragraph-->
+    <p>
+    Lorem ipsum dolor sit<strong> amet consectetur</strong>, adipisicing elit. Obcaecati 
+    non magni <em>similique ipsam</em>. Ipsa at molestias ipsam eos pariatur saepe
+    illum officiis atque blanditiis velit minima aperiam delectus, eaque beatae?
+   </p>
+    <p>
+    Lorem ipsum dolor <a href="https://www.google.fr/" target="_blank">sit amet consectetur</a>,adipisicing elit. Obcaecati 
+    non magni similique ipsam. Ipsa at molestias ipsam eos pariatur saepe
+    illum officiis atque blanditiis velit minima aperiam delectus, eaque beatae?
+   </p>
+
+   <!--List-->
+   <ul>
+    <li>List Item 1</li>
+    <li>List Item 2</li>
+    <li>List Item 3</li>
+    <li>List Item 4</li>
+  </ul> 
+   
+   <ol>
+    <li>List Item 1</li>
+    <li>List Item 2</li>
+    <li>List Item 3</li>
+    <li>List Item 4</li>
+   </ol>  
+  
+   <!--Table-->
+   <table>
+    <tr>
+      <th>Firstname</th>
+      <th>Lastname</th>
+      <th>Email</th>
+      <th>Age</th>
+    </tr>
+    <tr>
+      <td>Jill</td>
+      <td>Smith</td>
+      <td>Smith@something.com</td>
+      <td>50</td>
+    </tr>
+    <tr>
+      <td>Eve</td>
+      <td>Jackson</td>
+      <td>Jackson@something.com</td>
+      <td>94</td>
+    </tr>
+  </table>
+
+  <!--Forms-->
+  <form action="action_page.php" method="POST">
+   <div>
+        <label>First Name:</label>
+        <input type="text" name="firstName" placeholder="enter your first name">
+   </div> 
+   <br>
+   <div>
+        <label>Last Name:</label>
+        <input type="text" name="lastName">
+   </div> 
+   <br>
+   <div>
+        <label>Email:</label>
+        <input type="text" name="email"> 
+   </div> 
+   <br>
+   <div>
+       <label>Message:</label>
+       <textarea name="message"></textarea>
+   </div>
+   <br>
+   <div>
+       <label>Gender:</label>
+       <select name="gender">
+           <option value="male">Male</option>
+           <option value="female">Female</option>
+           <option value="other">Other</option>
+       </select>
+   </div>
+   <br>
+   <div>
+       <label>Age:</label>
+       <input type="text" name="age" value="30">
+   </div>
+   <br>
+   <div>
+       <label>Birthday:</label>
+       <input type="date" name="birthday">
+   </div>
+   <br>
+   <input type="submit" name="submit" value="Submit">
+  </form>
+
+  <!--Button-->
+  <button>Click Me</button>
+
+  <!--Image-->
+  <a href="images/sample.jpg">
+    <img src="images/sample.jpg" alt="My sample Image" width="200" height="200">
+  </a>
+
+  <p><cite>HTML crash course</cite>by Mohamed</p>
+
+
+</body>
+</html>
+```
+
 
