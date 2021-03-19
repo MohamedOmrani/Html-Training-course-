@@ -310,9 +310,55 @@
 <nav></nav>
 <section></section>
 ```
+### Header
 
+```
+<header>
+    <h1>My Website</h1>
+</header>
+```
+### Section
 
+```
+<section>
+    <article class="post">
+        <h3>Blog Post</h3>
+        <small>Poste by Mohamed on January 20</small>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias esse vero ab consequatur, rem sint dolorem eius dolorum exercitationem, necessitatibus modi iure rerum            facere obcaecati nam! Quos enim reprehenderit a.</p>
+        <a href="post.html">Read More</a>
+    </article>
+</section>
+```
+### 3 Section
 
+```
+<section>
+    <article class="post">
+        <h3>Blog Post One</h3>
+        <small>Poste by Mohamed on January 20</small>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias esse vero ab consequatur, rem sint dolorem eius dolorum exercitationem, necessitatibus modi iure                  rerum facere obcaecati nam! Quos enim reprehenderit a.</p>
+        <a href="post.html">Read More</a>
+    </article>
+</section>
+
+<section>
+    <article class="post">
+        <h3>Blog Post Two</h3>
+        <small>Poste by Mohamed on January 20</small>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias esse vero ab consequatur, rem sint dolorem eius dolorum exercitationem, necessitatibus modi iure                  rerum facere obcaecati nam! Quos enim reprehenderit a.</p>
+        <a href="post.html">Read More</a>
+    </article>
+</section>
+
+<section>
+    <article class="post">
+        <h3>Blog Post Three</h3>
+        <small>Poste by Mohamed on January 20</small>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias esse vero ab consequatur, rem sint dolorem eius dolorum exercitationem, necessitatibus modi iure                  rerum facere obcaecati nam! Quos enim reprehenderit a.</p>
+        <a href="post.html">Read More</a>
+    </article>
+</section>
+```
 
 
 
