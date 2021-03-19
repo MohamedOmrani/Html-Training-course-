@@ -273,6 +273,34 @@
    <input type="submit" name="submit" value="Submit">
   </form>
 ```
+### button
+```
+ <button>Click Me</button>
+```
+### Image
+```
+ <img src="images/sample.jpg" alt="My sample Image">
+```
+### Image with css
+```
+ <img src="images/sample.jpg" alt="My sample Image" with="200">
+```
+### Image with href
+```
+<a href="images/sample.jpg">
+  <img src="images/sample.jpg" alt="My sample Image" with="200" height="200"> 
+</a>
+```
+### other
+```
+ <p><cite>HTML crash course</cite>by Mohamed</p>
+```
+
+### HTML5 Semantic Tags
+
+  ![3Step](https://user-images.githubusercontent.com/69158314/111070854-ec28e100-84d3-11eb-90a8-2123dec785b0.png)
+
+
 
 
 
