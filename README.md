@@ -142,7 +142,7 @@
 
 
 ### Paragraph 
-```diff 
+``` 
   <p>
 
  - Lorem ipsum dolor sit amet consectetur, adipisicing elit. Obcaecati 
@@ -166,5 +166,26 @@
 
 **Block Level:**
 ```<div>,<h1>-<h6>,<p>,<form>```
+
 **Inline Level:** 
 ```<span>,<img>,<a>```
+
+### Paragraph with Strong, em
+
+``` 
+   <p>
+    Lorem ipsum dolor sit<strong> amet consectetur</strong>, adipisicing elit. Obcaecati 
+    non magni <em>similique ipsam</em>. Ipsa at molestias ipsam eos pariatur saepe
+    illum officiis atque blanditiis velit minima aperiam delectus, eaque beatae?
+   </p>
+  
+```
+### Paragraph with href
+``` 
+   <p>
+    Lorem ipsum dolor <a href="https://www.google.fr/" target="_blank">sit amet consectetur</a>,adipisicing elit. Obcaecati 
+    non magni similique ipsam. Ipsa at molestias ipsam eos pariatur saepe
+    illum officiis atque blanditiis velit minima aperiam delectus, eaque beatae?
+   </p>
+  
+```
