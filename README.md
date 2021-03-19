@@ -298,7 +298,8 @@
 
 ### HTML5 Semantic Tags
 
-  ![3Step](https://user-images.githubusercontent.com/69158314/111070854-ec28e100-84d3-11eb-90a8-2123dec785b0.png)
+![semantic](https://user-images.githubusercontent.com/69158314/111840628-06602600-88fd-11eb-8bbc-db68b0b6f9e9.png)
+
 
 
 
